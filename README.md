@@ -4,4 +4,4 @@ This is my portfolio my I mentioned my projects and my social networks where you
 
 # Link :
 
-For better preview all to : https://supiimishra01.github.io/Portfolio/
+For better preview all to : [https://supiimishra01.github.io/Portfolio/](https://portfolio-website-129f0a.netlify.app/)
